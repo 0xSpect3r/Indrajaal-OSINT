@@ -1,4 +1,9 @@
 streamlit
 instaloader
+snscrape
+facebook-scraper
+requests
+beautifulsoup4
+geopy
 ipinfo
-geopy\nsnscrape\nfacebook-scraper
+python-dotenv
