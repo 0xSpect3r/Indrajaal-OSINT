@@ -5,4 +5,4 @@ facebook-scraper==0.2.59
 requests==2.31.0
 python-dotenv==1.0.1
 geopy==2.4.1
-ipinfo==3.4.2
+ipinfo==2.1.0
